@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>game/smb_1-up.wav</file>
+        <file>game/smb_gameover.wav</file>
+    </qresource>
+</RCC>
